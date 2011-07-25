@@ -1,0 +1,5 @@
+Sphinx>=1.0
+docutils==0.7
+sphinxcontrib-httpdomain>=1.1.5
+#nose==1.0.0
+#ply>=3.4
