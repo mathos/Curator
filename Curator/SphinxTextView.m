@@ -77,7 +77,7 @@
 	//[self setAutoresizingMask:NSViewWidthSizable];
 	[self setAllowsUndo:YES];
 	
-	//[self setFont:[NSFont fontWithName: @"Courier" size: 14]];
+	[self setFont:[NSFont fontWithName: @"Courier" size: 12]];
 	
 	// listen to updates from the window to force a redraw - eg when the window resizes.
 	
