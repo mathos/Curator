@@ -1,4 +1,4 @@
-#!/Users/mathos/Documents/Curator/Curator/Extras/python/curator_ext_env/bin/python
+#!/usr/bin/env python
 
 # Author: 
 # Contact: grubert@users.sf.net

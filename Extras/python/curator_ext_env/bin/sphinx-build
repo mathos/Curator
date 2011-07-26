@@ -1,4 +1,4 @@
-#!/Users/mathos/Documents/Curator/Curator/Extras/python/curator_ext_env/bin/python
+#!/usr/bin/env python
 # EASY-INSTALL-ENTRY-SCRIPT: 'Sphinx==1.0.7','console_scripts','sphinx-build'
 __requires__ = 'Sphinx==1.0.7'
 import sys

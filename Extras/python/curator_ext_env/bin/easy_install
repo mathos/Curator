@@ -1,4 +1,4 @@
-#!/Users/mathos/Documents/Curator/Curator/Extras/python/curator_ext_env/bin/python
+#!/usr/bin/env python
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==0.6c11','console_scripts','easy_install'
 __requires__ = 'setuptools==0.6c11'
 import sys
